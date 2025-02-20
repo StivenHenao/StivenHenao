@@ -1,6 +1,10 @@
-![Banner](https://your-banner-image-url.com/banner.png)
+<div align="center">
+  <h1><strong>👋 Hi, I'm Stiven Henao!</strong></h1>
+</div>
+<p align="center">
+  <img src="https://i.imgur.com/bHhDf0s.png" alt="Banner" width="100%" />
+</p>
 
-# 👋 Hi, I'm [StivenHenao]!
 
 **Systems Engineering Student | Universidad del Valle**  
 💻 Passionate about software development and learning new technologies.  
@@ -14,6 +18,7 @@
 - 🌱 Currently learning **Kotlin** and **Spring Boot** for backend development.
 - 🌐 Exploring frontend technologies with **React** and **TypeScript**.
 - 💡 Always open to collaborating on interesting projects and learning from others!
+- 🌍 I speak **Spanish** and **English**.
 
 ---
 
@@ -30,11 +35,12 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Followers](https://img.shields.io/github/followers/your-github-username?label=Followers&style=social)
+![GitHub Followers](https://img.shields.io/github/followers/StivenHenao?label=Followers&style=social)
 
 ---
 
 ## 📺 Check out my YouTube channel!
+### Where I upload videos about some of my academic projects
 [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@stivenh04)
 
 ---
@@ -46,5 +52,3 @@
 ⭐️ _Feel free to connect with me and check out my repositories!_
 
 ---
-
-Si me pasas el enlace a tu banner y tu canal de YouTube, ¡lo ajusto para que quede perfecto! 🚀
