@@ -2,7 +2,7 @@
   <h1><strong>👋 Hi, I'm Stiven Henao!</strong></h1>
 </div>
 <p align="center">
-  <img src="https://i.imgur.com/bHhDf0s.png" alt="Banner" width="100%" />
+  <img src="https://i.imgur.com/s66uZiq.png" alt="Banner" width="100%" />
 </p>
 
 
