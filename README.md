@@ -11,6 +11,8 @@
 🚀 Building practical projects with Kotlin, Spring Boot, React, and TypeScript.
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StivenHenao&layout=compact)
+---
 
 ## 📌 About Me
 - 🎓 Studying **Systems Engineering** at **Universidad del Valle**.
