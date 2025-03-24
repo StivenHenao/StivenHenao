@@ -1,17 +1,38 @@
+
 <div align="center">
   <h1><strong>👋 Hi, I'm Stiven Henao!</strong></h1>
 </div>
+
 <p align="center">
   <img src="https://i.imgur.com/HxFOgW9.png" alt="Banner" width="100%" />
 </p>
 
+---
 
-**Systems Engineering Student | Universidad del Valle**  
-💻 Passionate about software development and learning new technologies.  
-🚀 Building practical projects with Kotlin, Spring Boot, React, and TypeScript.
+<div align="center">
+  <h3>💻 Systems Engineering Student | Universidad del Valle</h3>
+  🚀 Passionate about software development and learning new technologies.  
+  📌 Currently working on projects with **Kotlin, Spring Boot, React, and TypeScript**.
+</div>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StivenHenao&layout=compact)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StivenHenao&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=StivenHenao&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StivenHenao&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin,firebase,spring,git,github,postgres,sqlite,docker,html,css,javascript,,figma,&theme=dark" />
+</div>
+
 ---
 
 ## 📌 About Me
@@ -24,33 +45,30 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🚀 Some Cool Repos
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![GitHub Followers](https://img.shields.io/github/followers/StivenHenao?label=Followers&style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <a href="https://github.com/StivenHenao">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=StivenHenao&repo=WikiFut&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/StivenHenao">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=StivenHenao&repo=springboot-microservices-jwt&theme=radical&hide_border=true" />
+  </a>
+</p>
 
 ---
 
 ## 📺 Check out my YouTube channel!
 ### Where I upload videos about some of my academic projects
-[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@stivenh04)
+
+<p align="center">
+  <a href="https://www.youtube.com/@stivenh04">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
+  </a>
+</p>
 
 ---
 
 ✨ _"Code, create, and innovate every day!"_  
 
----
-
 ⭐️ _Feel free to connect with me and check out my repositories!_
-
----
