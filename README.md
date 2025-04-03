@@ -72,3 +72,7 @@
 ✨ _"Code, create, and innovate every day!"_  
 
 ⭐️ _Feel free to connect with me and check out my repositories!_
+
+
+
+![snake gif](https://github.com/StivenHenao/StivenHenao/blob/output/github-snake-dark.svg)
