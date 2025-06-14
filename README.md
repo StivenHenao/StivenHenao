@@ -1,4 +1,5 @@
 
+
 <div align="center">
   <h1><strong>👋 Hi, I'm Stiven Henao!</strong></h1>
 </div>
@@ -30,7 +31,7 @@
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin,firebase,spring,git,github,postgres,sqlite,docker,html,css,javascript,,figma,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin,firebase,spring,git,github,postgres,sqlite,docker,html,css,javascript,figma,postman,react,npm,nodejs,mysql,cpp&theme=dark" />
 </div>
 
 ---
