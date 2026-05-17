@@ -1,79 +1,144 @@
 
+<div  align="center">
 
-<div align="center">
-  <h1><strong>👋 Hi, I'm Stiven Henao!</strong></h1>
-</div>
+<h1>Hi, I'm Stiven Henao 👋</h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/HxFOgW9.png" alt="Banner" width="100%" />
+<h3>Full Stack Engineer · AI Integrations · Microservices</h3>
+
+<p>
+
+Building AI-powered products and scalable backend systems in production.<br/>
+
+Currently @ <strong>Subbi</strong> · Systems Engineering student @ <strong>Universidad del Valle</strong>
+
 </p>
 
----
-
-<div align="center">
-  <h3>💻 Systems Engineering Student | Universidad del Valle</h3>
-  🚀 Passionate about software development and learning new technologies.  
-  📌 Currently working on projects with **Kotlin, Spring Boot, React, and TypeScript**.
 </div>
 
+  
+
 ---
+
+  
+
+## 🛠️ Tech Stack
+
+  
+
+<div  align="center">
+
+<img  src="https://skillicons.dev/icons?i=python,java,javascript,typescript,kotlin,cpp&theme=dark"  />
+
+<br/>
+
+<img  src="https://skillicons.dev/icons?i=spring,nestjs,fastapi,react,django,flask&theme=dark"  />
+
+<br/>
+
+<img  src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,redis,firebase,mongodb&theme=dark"  />
+
+<br/>
+
+<img  src="https://skillicons.dev/icons?i=git,github,figma,postman,linux&theme=dark"  />
+
+</div>
+
+  
+
+---
+
+  
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StivenHenao&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=StivenHenao&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StivenHenao&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  
+
+<div  align="center">
+
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StivenHenao&theme=radical"  />
+
+<br/>
+
+<img  src="https://streak-stats.demolab.com?user=StivenHenao&theme=radical&hide_border=true"  />
+
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StivenHenao&theme=radical"  />
+
 </div>
+
+  
 
 ---
 
-## 🛠️ Languages and Tools
+  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin,firebase,spring,git,github,postgres,sqlite,docker,html,css,javascript,figma,postman,react,npm,nodejs,mysql,cpp&theme=dark" />
-</div>
+## 🚀 Featured Projects
+
+  
+
+<p  align="center">
+
+<a  href="https://github.com/StivenHenao/asistente-psicologia-rag">
+
+<img  src="https://github-readme-stats.vercel.app/api/pin/?username=StivenHenao&repo=asistente-psicologia-rag&theme=radical&hide_border=true"  />
+
+</a>
+
+<a  href="https://github.com/StivenHenao/springboot-microservices-jwt">
+
+<img  src="https://github-readme-stats.vercel.app/api/pin/?username=StivenHenao&repo=springboot-microservices-jwt&theme=radical&hide_border=true"  />
+
+</a>
+
+<a  href="https://github.com/StivenHenao/WikiFut">
+
+<img  src="https://github-readme-stats.vercel.app/api/pin/?username=StivenHenao&repo=WikiFut&theme=radical&hide_border=true"  />
+
+</a>
+
+</p>
+
+  
 
 ---
+
+  
 
 ## 📌 About Me
-- 🎓 Studying **Systems Engineering** at **Universidad del Valle**.
-- 🐍 I have experience with **Python**, **C++**, and **Java**.
-- 🌱 Currently learning **Kotlin** and **Spring Boot** for backend development.
-- 🌐 Exploring frontend technologies with **React** and **TypeScript**.
-- 💡 Always open to collaborating on interesting projects and learning from others!
-- 🌍 I speak **Spanish** and **English**.
+
+  
+
+- 💼 Software Engineer @ **Subbi** — AI integrations, microservices, full-stack
+
+- 🎓 B.S. Systems Engineering @ **Universidad del Valle** (GPA: 4.46, graduating Dec 2026)
+
+- 🤖 Building with **RAG pipelines, LLMs, FastAPI, NestJS, Spring Boot**
+
+- 🌍 Bilingual: **Spanish** (native) · **English** (B2+)
+
+- 📜 IBM Full Stack · DevOps · Back-End Professional Certificates
+
+  
 
 ---
 
-## 🚀 Some Cool Repos
+  
 
-<p align="center">
-  <a href="https://github.com/StivenHenao">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=StivenHenao&repo=WikiFut&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/StivenHenao">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=StivenHenao&repo=springboot-microservices-jwt&theme=radical&hide_border=true" />
-  </a>
-</p>
+<div  align="center">
 
----
+<a  href="https://linkedin.com/in/stiven-henao">
 
-## 📺 Check out my YouTube channel!
-### Where I upload videos about some of my academic projects
+<img  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  />
 
-<p align="center">
-  <a href="https://www.youtube.com/@stivenh04">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
-  </a>
-</p>
+</a>
 
----
+<a  href="https://www.youtube.com/@stivenh04">
 
-✨ _"Code, create, and innovate every day!"_  
+<img  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"  />
 
-⭐️ _Feel free to connect with me and check out my repositories!_
+</a>
 
+</div>
 
+  
 
 ![snake gif](https://github.com/StivenHenao/StivenHenao/blob/output/github-snake-dark.svg)
