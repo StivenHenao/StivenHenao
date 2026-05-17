@@ -79,19 +79,19 @@ Currently @ <strong>Subbi</strong> · Systems Engineering student @ <strong>Univ
 
 <a  href="https://github.com/StivenHenao/asistente-psicologia-rag">
 
-<img  src="https://github-readme-stats.vercel.app/api/pin/?username=StivenHenao&repo=asistente-psicologia-rag&theme=radical&hide_border=true"  />
+<img  src="https://gh-card.dev/repos/StivenHenao/asistente-psicologia-rag.svg?fullname="  />
 
 </a>
 
 <a  href="https://github.com/StivenHenao/springboot-microservices-jwt">
 
-<img  src="https://github-readme-stats.vercel.app/api/pin/?username=StivenHenao&repo=springboot-microservices-jwt&theme=radical&hide_border=true"  />
+<img  src="https://gh-card.dev/repos/StivenHenao/springboot-microservices-jwt.svg?fullname="  />
 
 </a>
 
 <a  href="https://github.com/StivenHenao/WikiFut">
 
-<img  src="https://github-readme-stats.vercel.app/api/pin/?username=StivenHenao&repo=WikiFut&theme=radical&hide_border=true"  />
+<img  src="https://gh-card.dev/repos/StivenHenao/WikiFut.svg?fullname="  />
 
 </a>
 
